@@ -5,6 +5,6 @@
 
 - 📫 How to reach me: daladiersampaio@gmail.com
 <a href="https://www.linkedin.com/in/delmiro-daladier-sampaio-neto-375977a4/">
-  <img align="left; margin-left: 10px" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left; margin-left: 10px" alt="Delmiro" src="https://img.shields.io/badge/-delmirodaladier-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 
