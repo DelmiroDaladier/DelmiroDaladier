@@ -1,6 +1,6 @@
 ### Hi there, I'm Delmiro Daladier 👋
 
-- 🔭 I’m currently working as Data Scientist at C.E.S.A.R
+- 🔭 I’m currently working as Data Scientist at Alelo
 - 🌱 I’m interested in Machine Learning, Natural Language Processing(NLP) and Information Retrieval Systems.
 
 - 📫 How to reach me: daladiersampaio@gmail.com
