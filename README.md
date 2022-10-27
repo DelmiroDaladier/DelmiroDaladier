@@ -1,6 +1,6 @@
 ### Hi there, I'm Delmiro Daladier 👋
 
-- 🔭 I’m currently working as Data Scientist at Alelo
+- 🔭 I’m currently working as Research Software Engineer at University of Bristol
 - 🌱 I’m interested in Machine Learning, Natural Language Processing(NLP) and Information Retrieval Systems.
 
 - 📫 How to reach me: daladiersampaio@gmail.com
